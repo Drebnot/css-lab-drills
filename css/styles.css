@@ -1,0 +1,71 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #4688F1;
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: greenyellow;
+}
+.boxes {
+    display: block;
+    margin: 1em;
+    padding: 1em;
+    border: solid;
+    border-radius: 5%;
+}
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: blueviolet;
+}
+span {
+    color: red;
+    font-weight: 700;
+}
+#box1 {
+    background-color: orange; 
+    width: 20%;
+}
+#box2 {
+    background-color: aqua;
+    width: 20%;
+   
+}
+#box3 {
+    background-color: purple;
+    width: 20%;
+}
+#box4 {
+    background-color: forestgreen;
+    width: 20%;            
+}
+.image {
+    width: 50%;
+    height: 50%;
+    background-color: black;
+    display: inline;   
+}
+h1 {
+    color: red;
+}
+.show1 {
+    color: green;
+}
+#rank1 {
+    color: blue;
+}
+#rank2 {
+    color: grey;
+}
+#rank4 {
+    color: goldenrod;
+}
+#rank5 {
+    color: purple;
+}
+.black {
+    border: 2px solid black;
+}
